@@ -69,16 +69,19 @@ nav {
   justify-content: center;
   text-align: center;
   gap: 20px;
+  padding: 0 3%;
 }
 
 .ag-home-container h1 {
-  font-size: 14vw;
+  font-size: 12vw;
 }
 
 .ag-home-container p {
-  font-size: 4vw;
+  font-size: 14px;
   line-height: 25px;
   letter-spacing: 1px;
+  align-items: start !important;
+  text-align: start ;
 }
 
 p span {
