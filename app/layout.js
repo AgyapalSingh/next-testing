@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Agyapal Singh",
+  title: "Home | Agyapal Singh",
   description: "Web Developer",
 };
 

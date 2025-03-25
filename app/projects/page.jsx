@@ -1,7 +1,10 @@
+export const metadata = {
+  title: "Projects | Agyapal Singh",
+};
+
 const Projects = () => {
   return (
     <section className="ag-projects-container">
-
       <div className="ag-projects project-1">1</div>
 
       <div className="ag-projects project-2">2</div>
