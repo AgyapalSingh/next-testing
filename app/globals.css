@@ -122,3 +122,39 @@ p span {
 .project-5 {
   background-color: rgb(26, 25, 25);
 }
+
+
+
+/* Info Page */
+.ag-info-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.ag-info {
+  display: flex;
+  height: 100vh;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.info-1 {
+  background-color: rgb(77, 77, 77);
+}
+
+.info-2 {
+  background-color: rgb(59, 59, 59);
+}
+
+.info-3 {
+  background-color: rgb(43, 43, 43);
+}
+
+.info-4 {
+  background-color: rgb(39, 39, 39);
+}
+
+.info-5 {
+  background-color: rgb(26, 25, 25);
+}
