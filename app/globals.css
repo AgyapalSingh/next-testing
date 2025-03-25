@@ -70,3 +70,38 @@ p span{
     font-style: italic;
     color: var(--text-color-secondary);
 }
+
+
+/* Projects Page */
+.ag-projects-container{
+    display: flex;
+    flex-direction: column;
+}
+
+.ag-projects{
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+}
+
+.project-1{
+    background-color: rgb(77, 77, 77);
+}
+
+.project-2{
+    background-color: rgb(59, 59, 59);
+}
+
+.project-3{
+    background-color: rgb(43, 43, 43);
+}
+
+.project-4{
+    background-color: rgb(39, 39, 39);
+}
+
+.project-5{
+    background-color: rgb(26, 25, 25);
+}
