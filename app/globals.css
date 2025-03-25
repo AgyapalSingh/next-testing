@@ -72,11 +72,11 @@ nav {
 }
 
 .ag-home-container h1 {
-  font-size: 14vh;
+  font-size: 14vw;
 }
 
 .ag-home-container p {
-  font-size: 2vh;
+  font-size: 4vw;
   line-height: 25px;
   letter-spacing: 1px;
 }
