@@ -125,7 +125,7 @@ footer {
 }
 
 .ag-home-title {
-  background: url(https://res.cloudinary.com/drda5zneo/image/upload/v1568230782/FB_IMG_15682140636163779_knptru.jpg);
+  background: url("../public/title-image-water.gif");
   background-size: cover;
   color: #fff;
   -webkit-text-fill-color: transparent;
