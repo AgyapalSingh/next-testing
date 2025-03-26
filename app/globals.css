@@ -125,15 +125,15 @@ footer {
 }
 
 .ag-home-title {
-  background: url("../public/title-image-water.gif");
-  background-size: cover;
+  background: url("../public/water.webp");
+  background-position: bottom ;
   color: #fff;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
 }
 
 .ag-home-container h1 {
-  font-size: 12vw;
+  font-size: 13vw;
 }
 
 .ag-home-container p {
